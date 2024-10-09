@@ -10,4 +10,4 @@ URL: http://localhost:5000/api/status/{{requestId}}
  
 Documentation link
 
-https://github.com/mohdkaifkhan123/Image_Processing_Redis
+https://drive.google.com/file/d/1K6hm682raacLEeAldM00T8lFrql_-yVK/view?usp=sharing
